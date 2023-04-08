@@ -1,1 +1,1 @@
-# 十分鐘建立 ChatGPT 等級的 LINE 機器人！ 
+# 如何在十分鐘內建立 ChatGPT 等級的個人化 LINE 機器人？
